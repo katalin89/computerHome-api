@@ -5,7 +5,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
-
+//nu incarca datele
 @Data
 @Entity
 @Table(name = "computers")
